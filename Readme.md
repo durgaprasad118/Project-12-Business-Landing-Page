@@ -8,7 +8,7 @@
 
 ## Live Demo
 
-[Live link](https://project-11-hosting-dp1108.netlify.app/)
+[Live link](https://project-12-business-landing-page-dp11.netlify.app/)
 
 ## Technologies Used
 
